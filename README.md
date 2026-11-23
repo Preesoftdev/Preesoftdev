@@ -1,6 +1,6 @@
 <div align="center">
 
-**[Open the interactive version: scroll to build the git graph →](https://preesoftdev.github.io)**
+<a href="https://preesoftdev.github.io"><img src="https://img.shields.io/badge/Open_the_interactive_version-scroll_to_build_the_git_graph-5558E8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open the interactive version: scroll to build the git graph"></a>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" type="image/webp" srcset="assets/v6/anim/mobile-dark-v2.webp">
