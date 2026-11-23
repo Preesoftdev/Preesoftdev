@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://preesoft.com"><img src="assets/01-hero.png" alt="Preesoft. You think, we develop. Resilient software platforms for scale: mobile, web, AI, cloud and cybersecurity, built in Lahore for clients worldwide. 25+ platforms delivered, 100+ engineers, 8+ years building, 400+ repositories." width="100%"></a>
+<a href="https://preesoft.com"><img src="assets/01-hero.gif" alt="Preesoft. You think, we develop. Resilient software platforms for scale: mobile, web, AI, cloud and cybersecurity, built in Lahore for clients worldwide. 25+ platforms delivered, 100+ engineers, 8+ years building, 400+ repositories." width="100%"></a>
 
 [Website](https://preesoft.com) · [LinkedIn](https://www.linkedin.com/company/preesoft) · [X @preesoft1](https://x.com/preesoft1) · [info@preesoft.com](mailto:info@preesoft.com)
 
