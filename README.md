@@ -1,10 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" type="image/webp" srcset="assets/v6/anim/mobile-dark.webp">
-  <source media="(max-width: 600px)" type="image/webp" srcset="assets/v6/anim/mobile-light.webp">
-  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="assets/v6/anim/desktop-dark.webp">
-  <source type="image/webp" srcset="assets/v6/anim/desktop-light.webp">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" type="image/webp" srcset="assets/v6/anim/mobile-dark-v2.webp">
+  <source media="(max-width: 600px)" type="image/webp" srcset="assets/v6/anim/mobile-light-v2.webp">
+  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="assets/v6/anim/desktop-dark-v2.webp">
+  <source type="image/webp" srcset="assets/v6/anim/desktop-light-v2.webp">
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v6/profile-dark-m.png">
   <source media="(max-width: 600px)" srcset="assets/v6/profile-light-m.png">
   <source media="(prefers-color-scheme: dark)" srcset="assets/v6/profile-dark.png">
