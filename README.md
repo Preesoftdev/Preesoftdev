@@ -1,5 +1,7 @@
 <div align="center">
 
+**[Open the interactive version: scroll to build the git graph →](https://preesoftdev.github.io)**
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" type="image/webp" srcset="assets/v6/anim/mobile-dark-v2.webp">
   <source media="(max-width: 600px)" type="image/webp" srcset="assets/v6/anim/mobile-light-v2.webp">
