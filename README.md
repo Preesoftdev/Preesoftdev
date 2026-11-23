@@ -64,7 +64,7 @@ A few tools we share publicly:
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [**cve-scanner**](https://github.com/preesoftdev/cve-scanner) | Security scanner that checks software for known CVE flaws | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**cve-scanner**](https://github.com/preesoftdev/cve-scanner) | Scans project dependencies for known vulnerabilities via the OSV API | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**whatwealldo-events-service**](https://github.com/preesoftdev/whatwealldo-events-service) | Events service backend | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 
 ## How we work
